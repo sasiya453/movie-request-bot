@@ -1,0 +1,16 @@
+{
+  "name": "movie-request-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for movie requests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
